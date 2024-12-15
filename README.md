@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Name: Satyam Singh
+
 Age: 20
+
 Major: Computer Engineering @ UIUC
+
 Minor: The Hoeft Technology and Management Program
 
 
 Email: singh.satyam0617@gmail.com
+
 LinkedIn: [Satyam Singh](https://www.linkedin.com/in/satyamsingh7/)
+
 Portfolio: [Link](https://singhsatyam.com/)
 
 ## Tech Stack
