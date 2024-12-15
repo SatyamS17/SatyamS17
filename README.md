@@ -42,3 +42,5 @@ singh.satyam0617@gmail.com | [LinkedIn](https://www.linkedin.com/in/satyamsingh7
 ![WPF](https://img.shields.io/badge/WPF-68217A?style=flat&logo=windows&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=flat&logo=platformio&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat&logo=bluetooth&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0088CC?style=flat&logo=network&logoColor=white)
