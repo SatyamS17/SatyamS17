@@ -14,17 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Name: Satyam Singh
+Hi, my name is Satyam Singh. I'm interested in and continually learning about embedded software, cloud computing, and system programming.
 
-Age: 20
+Major: Computer Engineering @ UIUC 💻
 
-Major: Computer Engineering @ UIUC
-
-Minor: The Hoeft Technology and Management Program
+Minor: The Hoeft Technology and Management Program 💼
 
 singh.satyam0617@gmail.com | [LinkedIn](https://www.linkedin.com/in/satyamsingh7/) | [Portfolio](https://singhsatyam.com/)
 
-## Tech Stack
+## Tech Stack 📚
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
